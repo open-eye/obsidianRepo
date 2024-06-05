@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithmLearn/未命名.md",
+                "file": "algorithmLearn/算法学习第一天.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmLearn/未命名.md",
+                "file": "algorithmLearn/算法学习第一天.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmLearn/未命名.md",
+                "file": "algorithmLearn/算法学习第一天.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmLearn/未命名.md"
+                "file": "algorithmLearn/算法学习第一天.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "805108c11dea1d95",
   "lastOpenFiles": [
     "algorithmLearn/数组.md",
-    "algorithmLearn/未命名.md",
+    "algorithmLearn/算法学习第一天.md",
     "Welcome.md",
     "algorithmLearn"
   ]
