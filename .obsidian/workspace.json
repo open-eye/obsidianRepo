@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithmLearn/算法学习第一天.md",
+                "file": "如何阅读一本书/第一章 阅读的活力与艺术.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmLearn/算法学习第一天.md",
+                "file": "如何阅读一本书/第一章 阅读的活力与艺术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmLearn/算法学习第一天.md",
+                "file": "如何阅读一本书/第一章 阅读的活力与艺术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmLearn/算法学习第一天.md"
+                "file": "如何阅读一本书/第一章 阅读的活力与艺术.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "ac7709132a2a90b0",
   "lastOpenFiles": [
-    "algorithmLearn/算法学习第二天.md",
+    "未命名.md",
+    "如何阅读一本书/第一章 阅读的活力与艺术.md",
     "algorithmLearn/算法学习第一天.md",
+    "如何阅读一本书",
+    "algorithmLearn/算法学习第二天.md",
     "englishLearn",
     "[704..md",
     "algorithmLearn/数组.md",
