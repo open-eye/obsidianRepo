@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "如何阅读一本书/第一章 阅读的活力与艺术.md",
+                "file": "读书笔记/如何阅读一本书.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何阅读一本书/第一章 阅读的活力与艺术.md",
+                "file": "读书笔记/如何阅读一本书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "如何阅读一本书/第一章 阅读的活力与艺术.md",
+                "file": "读书笔记/如何阅读一本书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何阅读一本书/第一章 阅读的活力与艺术.md"
+                "file": "读书笔记/如何阅读一本书.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ac7709132a2a90b0",
+  "active": "e044b4c36d0cf39d",
   "lastOpenFiles": [
     "未命名.md",
-    "如何阅读一本书/第一章 阅读的活力与艺术.md",
+    "读书笔记/如何阅读一本书.md",
     "algorithmLearn/算法学习第一天.md",
-    "如何阅读一本书",
+    "读书笔记",
     "algorithmLearn/算法学习第二天.md",
     "englishLearn",
     "[704..md",
