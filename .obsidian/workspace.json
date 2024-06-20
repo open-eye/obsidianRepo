@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/如何阅读一本书.md",
+                "file": "algorithmLearn/链表/链表理论基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/如何阅读一本书.md",
+                "file": "algorithmLearn/链表/链表理论基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/如何阅读一本书.md",
+                "file": "algorithmLearn/链表/链表理论基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/如何阅读一本书.md"
+                "file": "algorithmLearn/链表/链表理论基础.md"
               }
             }
           }
@@ -161,10 +161,17 @@
   },
   "active": "7421d0670d9437aa",
   "lastOpenFiles": [
+    "Pasted image 20240620104138.png",
+    "algorithmLearn/数组/Pasted image 20240620103816.png",
+    "algorithmLearn/算法学习第三天.md",
+    "algorithmLearn/链表/链表理论基础.md",
+    "读书笔记/如何阅读一本书.md",
+    "algorithmLearn/链表",
+    "algorithmLearn/数组/总结篇.md",
+    "algorithmLearn/数组/数组理论基础.md",
+    "algorithmLearn/数组/Pasted image 20240620103356.png",
     "algorithmLearn/数组/Pasted image 20240619190728.png",
     "algorithmLearn/数组/Pasted image 20240619152522.png",
-    "algorithmLearn/算法学习第三天.md",
-    "algorithmLearn/数组/总结篇.md",
     "algorithmLearn/数组/移除元素.md",
     "algorithmLearn/数组/有序数组的平方.md",
     "algorithmLearn/数组/长度最小的子数组.md",
@@ -175,7 +182,6 @@
     "未命名.md",
     "algorithmLearn/数组",
     "[209..md",
-    "读书笔记/如何阅读一本书.md",
     "读书笔记",
     "englishLearn",
     "[704..md",
