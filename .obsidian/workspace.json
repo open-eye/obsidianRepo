@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6f87596a82cc13c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记/如何阅读一本书.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b27be75e4e0e12d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmLearn/算法学习第三天.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmLearn/算法学习第三天.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmLearn/算法学习第三天.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -159,8 +183,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7421d0670d9437aa",
+  "active": "b27be75e4e0e12d0",
   "lastOpenFiles": [
+    "读书笔记/如何阅读一本书.md",
+    "未命名.md",
+    "Welcome.md",
+    "未命名",
     "algorithmLearn/算法学习第二天.md",
     "algorithmLearn/算法学习第三天.md",
     "algorithmLearn/链表/Pasted image 20240620104138.png",
@@ -171,7 +199,6 @@
     "algorithmLearn/链表/Pasted image 20240620105346.png",
     "algorithmLearn/链表/Pasted image 20240620105140.png",
     "algorithmLearn/数组/Pasted image 20240620103816.png",
-    "读书笔记/如何阅读一本书.md",
     "algorithmLearn/链表",
     "algorithmLearn/数组/总结篇.md",
     "algorithmLearn/数组/数组理论基础.md",
@@ -184,13 +211,11 @@
     "algorithmLearn/数组/螺旋矩阵 Ⅱ.md",
     "algorithmLearn/数组/二分查找.md",
     "algorithmLearn/算法学习第一天.md",
-    "未命名.md",
     "algorithmLearn/数组",
     "[209..md",
     "读书笔记",
     "englishLearn",
     "[704..md",
-    "Welcome.md",
     "algorithmLearn"
   ]
 }
