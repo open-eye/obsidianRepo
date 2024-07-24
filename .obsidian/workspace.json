@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98c84424c6b3a0de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作笔记/stream常用语法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/如何阅读一本书.md",
+                "file": "工作笔记/stream常用语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/如何阅读一本书.md",
+                "file": "工作笔记/stream常用语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/如何阅读一本书.md"
+                "file": "工作笔记/stream常用语法.md"
               }
             }
           }
@@ -183,13 +195,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b27be75e4e0e12d0",
+  "active": "98c84424c6b3a0de",
   "lastOpenFiles": [
+    "读书笔记/如何阅读一本书.md",
+    "工作笔记/stream常用语法.md",
+    "工作笔记",
     "落后就要挨打.md",
     "Welcome.md",
-    "读书笔记/如何阅读一本书.md",
-    "未命名.md",
-    "未命名",
     "algorithmLearn/算法学习第二天.md",
     "algorithmLearn/算法学习第三天.md",
     "algorithmLearn/链表/Pasted image 20240620104138.png",
