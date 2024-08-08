@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/我真的很棒.md",
+                "file": "管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/我真的很棒.md",
+                "file": "管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/我真的很棒.md",
+                "file": "管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/我真的很棒.md"
+                "file": "管理.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "74a5a595f33e2084",
   "lastOpenFiles": [
+    "读书笔记/我真的很棒.md",
     "读书笔记/如何阅读一本书.md",
     "管理.md",
-    "读书笔记/我真的很棒.md",
     "读书笔记/广州与深圳.md",
     "工作笔记/回单中心接口梳理.md",
     "读书笔记/共生.md",
