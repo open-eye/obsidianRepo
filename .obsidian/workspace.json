@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/我真的很棒.md",
+                "file": "工作上犯错误了.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac330b2215f5a2d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/我真的很棒.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/我真的很棒.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/我真的很棒.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -171,9 +183,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "74a5a595f33e2084",
+  "active": "ac330b2215f5a2d1",
   "lastOpenFiles": [
+    "项目任务书模板.md",
+    "工作上犯错误了.md",
+    "疏离型人格.md",
+    "失恋了.md",
     "管理.md",
+    "conflict-files-obsidian-git.md",
     "读书笔记/我真的很棒.md",
     "读书笔记/如何阅读一本书.md",
     "读书笔记/广州与深圳.md",
@@ -206,13 +223,9 @@
     "algorithmLearn/数组/有序数组的平方.md",
     "algorithmLearn/数组/长度最小的子数组.md",
     "algorithmLearn/数组/螺旋矩阵 Ⅱ.md",
-    "algorithmLearn/数组/二分查找.md",
-    "algorithmLearn/算法学习第一天.md",
     "algorithmLearn/数组",
-    "[209..md",
     "读书笔记",
     "englishLearn",
-    "[704..md",
     "algorithmLearn"
   ]
 }
