@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作笔记/易购总库存查询.md",
+                "file": "工作笔记/易购产品系列查询接口设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作笔记/易购总库存查询.md",
+                "file": "工作笔记/易购产品系列查询接口设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作笔记/易购总库存查询.md",
+                "file": "工作笔记/易购产品系列查询接口设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作笔记/易购总库存查询.md"
+                "file": "工作笔记/易购产品系列查询接口设计.md"
               }
             }
           }
@@ -160,11 +160,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "53b7068237be3e0d",
+  "active": "ac330b2215f5a2d1",
   "lastOpenFiles": [
     "反思",
     "未命名.md",
-    "工作笔记/易购总库存查询.md",
+    "工作笔记/易购产品系列查询接口设计.md",
     "读书笔记/如何阅读一本书.md",
     "项目任务书模板.md",
     "Welcome.md",
