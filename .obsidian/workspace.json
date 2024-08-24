@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,7 +159,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ac330b2215f5a2d1",
+  "active": "e044b4c36d0cf39d",
   "lastOpenFiles": [
     "工作笔记/~$ Microsoft Word 文档.docx",
     "工作笔记/新建 Microsoft Word 文档.docx",
