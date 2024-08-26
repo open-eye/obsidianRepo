@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/如何阅读一本书.md",
+                "file": "工作笔记/易购产品系列查询接口设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/如何阅读一本书.md",
+                "file": "工作笔记/易购产品系列查询接口设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/如何阅读一本书.md",
+                "file": "工作笔记/易购产品系列查询接口设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/如何阅读一本书.md"
+                "file": "工作笔记/易购产品系列查询接口设计.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "ac330b2215f5a2d1",
   "lastOpenFiles": [
+    "读书笔记/如何阅读一本书.md",
     "工作笔记/易购产品系列查询接口设计.md",
     "工作笔记/~$ Microsoft Word 文档.docx",
     "工作笔记/新建 Microsoft Word 文档.docx",
@@ -171,7 +172,6 @@
     "Pasted image 20240823180937.png",
     "反思",
     "未命名.md",
-    "读书笔记/如何阅读一本书.md",
     "项目任务书模板.md",
     "Welcome.md",
     "工作上犯错误了.md",
