@@ -9,8 +9,8 @@
 dubbo-api
 **方法名称：**
 getListTypeCode
-### 2.2 系统架构图
-![[Pasted image 20240823180937.png]]
+### 2.2 时序图
+![[Pasted image 20240826162135.png]]
 
 ## 3. 接口详细设计
 ### 3.1 请求参数
