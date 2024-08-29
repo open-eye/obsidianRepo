@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八股文学习/Java基础/Synchronized.md",
+                "file": "八股文学习/数据库/MySQL/MySQL索引.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八股文学习/Java基础/Synchronized.md",
+                "file": "八股文学习/数据库/MySQL/MySQL索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八股文学习/Java基础/Synchronized.md",
+                "file": "八股文学习/数据库/MySQL/MySQL索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八股文学习/Java基础/Synchronized.md"
+                "file": "八股文学习/数据库/MySQL/MySQL索引.md"
               }
             }
           }
@@ -173,7 +173,9 @@
   },
   "active": "ec6ac9c746939c47",
   "lastOpenFiles": [
-    "八股文学习/场景问题/mysql调优.md",
+    "八股文学习/场景问题/慢查询问题.md",
+    "八股文学习/数据库/MySQL/MySQL索引.md",
+    "八股文学习/数据库/MySQL",
     "八股文学习/Java基础/Synchronized.md",
     "八股文学习/场景问题/缓存一致性解决.md",
     "八股文学习/场景问题/了解输入url到网站显示过程中发生了什么.md",
@@ -192,7 +194,6 @@
     "Pasted image 20240826162135.png",
     "读书笔记/如何阅读一本书.md",
     "工作笔记/~$ Microsoft Word 文档.docx",
-    "工作笔记/新建 Microsoft Word 文档.docx",
     "工作笔记/Pasted image 20240823180937.png",
     "Pasted image 20240823180937.png",
     "项目任务书模板.md",
@@ -211,7 +212,6 @@
     "读书笔记/投射.md",
     "algorithmLearn/算法学习第三天.md",
     "工作笔记/stream常用语法.md",
-    "落后就要挨打.md",
     "algorithmLearn/链表/Pasted image 20240620104138.png",
     "algorithmLearn/链表/Pasted image 20240620105218.png",
     "algorithmLearn/链表/Pasted image 20240620104318.png",
