@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作3年的java开发应该有什么样的职业规划.md",
+                "file": "八股文学习/场景问题/mysql调优.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作3年的java开发应该有什么样的职业规划.md",
+                "file": "八股文学习/场景问题/mysql调优.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作3年的java开发应该有什么样的职业规划.md",
+                "file": "八股文学习/场景问题/mysql调优.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作3年的java开发应该有什么样的职业规划.md"
+                "file": "八股文学习/场景问题/mysql调优.md"
               }
             }
           }
@@ -171,22 +171,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e044b4c36d0cf39d",
+  "active": "ec6ac9c746939c47",
   "lastOpenFiles": [
-    "未命名",
-    "工作笔记/app易购总库存需求设计.md",
+    "八股文学习/场景问题/缓存一致性解决.md",
+    "八股文学习/场景问题/mysql调优.md",
+    "八股文学习/场景问题/了解输入url到网站显示过程中发生了什么.md",
     "工作3年的java开发应该有什么样的职业规划.md",
+    "八股文学习/未命名.md",
+    "八股文学习/微服务分布式",
+    "八股文学习/场景问题",
+    "八股文学习/中间件",
+    "八股文学习/数据库",
+    "八股文学习/Java高级",
+    "八股文学习/Java基础",
+    "八股文学习/计算机基础知识",
+    "八股文学习",
+    "工作笔记/app易购总库存需求设计.md",
     "工作笔记/app易购总库存查询方案设计.md",
     "Pasted image 20240826162135.png",
     "读书笔记/如何阅读一本书.md",
     "工作笔记/~$ Microsoft Word 文档.docx",
     "工作笔记/新建 Microsoft Word 文档.docx",
-    "工作笔记/~$产品系列查询接口设计.docx",
-    "工作笔记/易购产品系列查询接口设计.docx",
-    "工作笔记/markdown.docx",
     "工作笔记/Pasted image 20240823180937.png",
     "Pasted image 20240823180937.png",
-    "反思",
     "项目任务书模板.md",
     "Welcome.md",
     "工作上犯错误了.md",
@@ -203,21 +210,14 @@
     "读书笔记/投射.md",
     "algorithmLearn/算法学习第三天.md",
     "工作笔记/stream常用语法.md",
-    "工作笔记",
     "落后就要挨打.md",
     "algorithmLearn/算法学习第二天.md",
     "algorithmLearn/链表/Pasted image 20240620104138.png",
     "algorithmLearn/链表/Pasted image 20240620105218.png",
     "algorithmLearn/链表/Pasted image 20240620104318.png",
     "algorithmLearn/链表/Pasted image 20240620104227.png",
-    "algorithmLearn/链表/链表理论基础.md",
     "algorithmLearn/链表/Pasted image 20240620105346.png",
     "algorithmLearn/链表/Pasted image 20240620105140.png",
-    "algorithmLearn/数组/Pasted image 20240620103816.png",
-    "algorithmLearn/链表",
-    "algorithmLearn/数组/总结篇.md",
-    "algorithmLearn/数组/数组理论基础.md",
-    "algorithmLearn/数组",
-    "读书笔记"
+    "algorithmLearn/数组/Pasted image 20240620103816.png"
   ]
 }
