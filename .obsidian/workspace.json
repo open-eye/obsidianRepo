@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec6ac9c746939c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作3年的java开发应该有什么样的职业规划.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作笔记/app易购总库存需求设计.md",
+                "file": "工作3年的java开发应该有什么样的职业规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作笔记/app易购总库存需求设计.md",
+                "file": "工作3年的java开发应该有什么样的职业规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作笔记/app易购总库存需求设计.md"
+                "file": "工作3年的java开发应该有什么样的职业规划.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ac330b2215f5a2d1",
+  "active": "ec6ac9c746939c47",
   "lastOpenFiles": [
-    "工作笔记/app易购总库存查询方案设计.md",
     "工作笔记/app易购总库存需求设计.md",
+    "工作3年的java开发应该有什么样的职业规划.md",
+    "工作笔记/app易购总库存查询方案设计.md",
     "Pasted image 20240826162135.png",
     "读书笔记/如何阅读一本书.md",
     "工作笔记/~$ Microsoft Word 文档.docx",
@@ -173,7 +186,6 @@
     "工作笔记/Pasted image 20240823180937.png",
     "Pasted image 20240823180937.png",
     "反思",
-    "未命名.md",
     "项目任务书模板.md",
     "Welcome.md",
     "工作上犯错误了.md",
