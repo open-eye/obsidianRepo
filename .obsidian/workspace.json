@@ -171,8 +171,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ec6ac9c746939c47",
+  "active": "e044b4c36d0cf39d",
   "lastOpenFiles": [
+    "未命名",
     "工作笔记/app易购总库存需求设计.md",
     "工作3年的java开发应该有什么样的职业规划.md",
     "工作笔记/app易购总库存查询方案设计.md",
@@ -216,7 +217,6 @@
     "algorithmLearn/链表",
     "algorithmLearn/数组/总结篇.md",
     "algorithmLearn/数组/数组理论基础.md",
-    "algorithmLearn/数组/移除元素.md",
     "algorithmLearn/数组",
     "读书笔记"
   ]
