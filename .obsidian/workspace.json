@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八股文学习/Java基础/byte.md",
+                "file": "八股文学习/Java基础/基本数据类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八股文学习/Java基础/byte.md",
+                "file": "八股文学习/Java基础/基本数据类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八股文学习/Java基础/byte.md",
+                "file": "八股文学习/Java基础/基本数据类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八股文学习/Java基础/byte.md"
+                "file": "八股文学习/Java基础/基本数据类型.md"
               }
             }
           }
@@ -174,7 +174,7 @@
   "active": "ec6ac9c746939c47",
   "lastOpenFiles": [
     "八股文学习/Java基础/final.md",
-    "八股文学习/Java基础/byte.md",
+    "八股文学习/Java基础/基本数据类型.md",
     "八股文学习/数据库/MySQL/MySQL索引.md",
     "八股文学习/场景问题/慢查询问题.md",
     "八股文学习/数据库/MySQL",
