@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八股文学习/Java基础/基本数据类型.md",
+                "file": "八股文学习/数据库/MySQL/MySQL索引.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八股文学习/Java基础/基本数据类型.md",
+                "file": "八股文学习/数据库/MySQL/MySQL索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八股文学习/Java基础/基本数据类型.md",
+                "file": "八股文学习/数据库/MySQL/MySQL索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八股文学习/Java基础/基本数据类型.md"
+                "file": "八股文学习/数据库/MySQL/MySQL索引.md"
               }
             }
           }
@@ -173,8 +173,12 @@
   },
   "active": "ec6ac9c746939c47",
   "lastOpenFiles": [
-    "八股文学习/Java基础/final.md",
+    "读书笔记/我真的很棒.md",
+    "读书笔记/共生.md",
+    "读书笔记/广州与深圳.md",
+    "读书笔记/如何阅读一本书.md",
     "八股文学习/Java基础/基本数据类型.md",
+    "八股文学习/Java基础/final.md",
     "八股文学习/数据库/MySQL/MySQL索引.md",
     "八股文学习/场景问题/慢查询问题.md",
     "八股文学习/数据库/MySQL",
@@ -194,7 +198,6 @@
     "工作笔记/app易购总库存需求设计.md",
     "工作笔记/app易购总库存查询方案设计.md",
     "Pasted image 20240826162135.png",
-    "读书笔记/如何阅读一本书.md",
     "工作笔记/~$ Microsoft Word 文档.docx",
     "工作笔记/Pasted image 20240823180937.png",
     "Pasted image 20240823180937.png",
@@ -205,10 +208,7 @@
     "失恋了.md",
     "管理.md",
     "conflict-files-obsidian-git.md",
-    "读书笔记/我真的很棒.md",
-    "读书笔记/广州与深圳.md",
     "工作笔记/回单中心接口梳理.md",
-    "读书笔记/共生.md",
     "读书笔记/移情.md",
     "读书笔记/内射.md",
     "读书笔记/投射.md",
