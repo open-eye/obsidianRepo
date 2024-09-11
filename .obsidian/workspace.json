@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活笔记/做菜记录.md",
+                "file": "myObsidian/生活笔记/做菜记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "356ee190cd1176e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myObsidian/生活笔记/落后就要挨打.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活笔记/做菜记录.md",
+                "file": "myObsidian/生活笔记/落后就要挨打.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活笔记/做菜记录.md",
+                "file": "myObsidian/生活笔记/落后就要挨打.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活笔记/做菜记录.md"
+                "file": "myObsidian/生活笔记/落后就要挨打.md"
               }
             }
           }
@@ -143,56 +156,57 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "ec6ac9c746939c47",
+  "active": "e044b4c36d0cf39d",
   "lastOpenFiles": [
-    "读书笔记/如何在12周内实现一年目标.md",
-    "生活笔记/做菜记录.md",
-    "读书笔记/移情.md",
-    "工作笔记/八股文学习/数据库/MySQL/数据库优化.md",
-    "工作笔记/八股文学习/数据库/MySQL/MySQL索引.md",
-    "工作笔记/八股文学习/Java高级/JVM.md",
-    "algorithmLearn/算法学习第四天.md",
-    "algorithmLearn/算法学习第三天.md",
-    "工作上犯错误了.md",
-    "新建 文本文档.txt",
-    "工作3年的java开发应该有什么样的职业规划.md",
-    "读书笔记/我真的很棒.md",
-    "读书笔记/共生.md",
-    "读书笔记/广州与深圳.md",
-    "读书笔记/如何阅读一本书.md",
-    "工作笔记/八股文学习/Java基础/基本数据类型.md",
-    "工作笔记/八股文学习/Java基础/final.md",
-    "工作笔记/八股文学习/场景问题/慢查询问题.md",
-    "工作笔记/八股文学习/数据库/MySQL",
-    "工作笔记/八股文学习/Java基础/Synchronized.md",
-    "工作笔记/八股文学习/场景问题/缓存一致性解决.md",
-    "工作笔记/八股文学习/场景问题/了解输入url到网站显示过程中发生了什么.md",
-    "八股文学习/未命名.md",
-    "工作笔记/八股文学习/微服务分布式",
-    "工作笔记/八股文学习/场景问题",
-    "工作笔记/八股文学习/中间件",
-    "工作笔记/八股文学习/数据库",
-    "工作笔记/八股文学习/Java高级",
-    "工作笔记/八股文学习/Java基础",
-    "工作笔记/八股文学习/计算机基础知识",
-    "工作笔记/八股文学习",
-    "工作笔记/app易购总库存需求设计.md",
-    "工作笔记/app易购总库存查询方案设计.md",
+    "myObsidian",
+    "myObsidian/工作笔记/管理.md",
+    "myObsidian/生活笔记/落后就要挨打.md",
+    "myObsidian/生活笔记/失恋了.md",
     "Pasted image 20240826162135.png",
-    "工作笔记/Pasted image 20240823180937.png",
-    "Pasted image 20240823180937.png",
     "项目任务书模板.md",
     "Welcome.md",
-    "疏离型人格.md",
-    "algorithmLearn/链表/Pasted image 20240620104138.png",
-    "algorithmLearn/链表/Pasted image 20240620105218.png",
-    "algorithmLearn/链表/Pasted image 20240620104318.png",
-    "algorithmLearn/链表/Pasted image 20240620104227.png",
-    "algorithmLearn/链表/Pasted image 20240620105346.png",
-    "algorithmLearn/链表/Pasted image 20240620105140.png",
-    "algorithmLearn/数组/Pasted image 20240620103816.png"
+    "myObsidian/生活笔记/疏离型人格.md",
+    "myObsidian/生活笔记/做菜记录.md",
+    "myObsidian/读书笔记/如何在12周内实现一年目标.md",
+    "myObsidian/读书笔记/移情.md",
+    "myObsidian/工作笔记/八股文学习/数据库/MySQL/数据库优化.md",
+    "myObsidian/工作笔记/八股文学习/数据库/MySQL/MySQL索引.md",
+    "myObsidian/工作笔记/八股文学习/Java高级/JVM.md",
+    "myObsidian/algorithmLearn/算法学习第四天.md",
+    "myObsidian/algorithmLearn/算法学习第三天.md",
+    "myObsidian/工作笔记/工作上犯错误了.md",
+    "新建 文本文档.txt",
+    "myObsidian/工作笔记/工作3年的java开发应该有什么样的职业规划.md",
+    "myObsidian/读书笔记/我真的很棒.md",
+    "myObsidian/读书笔记/共生.md",
+    "myObsidian/读书笔记/广州与深圳.md",
+    "myObsidian/读书笔记/如何阅读一本书.md",
+    "myObsidian/工作笔记/八股文学习/Java基础/基本数据类型.md",
+    "myObsidian/工作笔记/八股文学习/Java基础/final.md",
+    "myObsidian/工作笔记/八股文学习/场景问题/慢查询问题.md",
+    "myObsidian/工作笔记/八股文学习/数据库/MySQL",
+    "myObsidian/工作笔记/八股文学习/Java基础/Synchronized.md",
+    "myObsidian/工作笔记/八股文学习/场景问题/缓存一致性解决.md",
+    "myObsidian/工作笔记/八股文学习/微服务分布式",
+    "myObsidian/工作笔记/八股文学习/场景问题",
+    "myObsidian/工作笔记/八股文学习/中间件",
+    "myObsidian/工作笔记/八股文学习/数据库",
+    "myObsidian/工作笔记/八股文学习/Java高级",
+    "myObsidian/工作笔记/八股文学习/Java基础",
+    "myObsidian/工作笔记/八股文学习/计算机基础知识",
+    "myObsidian/工作笔记/八股文学习",
+    "myObsidian/工作笔记/Pasted image 20240823180937.png",
+    "Pasted image 20240823180937.png",
+    "myObsidian/algorithmLearn/链表/Pasted image 20240620104138.png",
+    "myObsidian/algorithmLearn/链表/Pasted image 20240620105218.png",
+    "myObsidian/algorithmLearn/链表/Pasted image 20240620104318.png",
+    "myObsidian/algorithmLearn/链表/Pasted image 20240620104227.png",
+    "myObsidian/algorithmLearn/链表/Pasted image 20240620105346.png",
+    "myObsidian/algorithmLearn/链表/Pasted image 20240620105140.png",
+    "myObsidian/algorithmLearn/数组/Pasted image 20240620103816.png"
   ]
 }
