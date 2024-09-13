@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myObsidian/生活笔记/习惯.md",
+                "file": "myObsidian/学习笔记/经济学原理 微观经济学.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myObsidian/生活笔记/习惯.md",
+                "file": "myObsidian/学习笔记/经济学原理 微观经济学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myObsidian/生活笔记/习惯.md",
+                "file": "myObsidian/学习笔记/经济学原理 微观经济学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myObsidian/生活笔记/习惯.md"
+                "file": "myObsidian/学习笔记/经济学原理 微观经济学.md"
               }
             }
           }
@@ -175,8 +175,11 @@
   },
   "active": "d7f8da123412c71f",
   "lastOpenFiles": [
-    "myObsidian/生活笔记/知行合一.md",
+    "myObsidian/生活笔记/疏离型人格.md",
+    "myObsidian/学习笔记/经济学原理 微观经济学.md",
+    "myObsidian/学习笔记",
     "myObsidian/生活笔记/习惯.md",
+    "myObsidian/生活笔记/知行合一.md",
     "myAnki/testAnki.md",
     "myObsidian/读书笔记/未命名.md",
     "Omnivore/2024-09-12/美团面试：说说OOM三大场景和解决方案？ （绝对史上最全）-阿里云开发者社区.md",
@@ -197,7 +200,6 @@
     "Pasted image 20240826162135.png",
     "项目任务书模板.md",
     "Welcome.md",
-    "myObsidian/生活笔记/疏离型人格.md",
     "myObsidian/生活笔记/做菜记录.md",
     "myObsidian/读书笔记/如何在12周内实现一年目标.md",
     "myObsidian/读书笔记/移情.md",
@@ -206,12 +208,10 @@
     "myObsidian/工作笔记/八股文学习/Java高级/JVM.md",
     "myObsidian/algorithmLearn/算法学习第四天.md",
     "myObsidian/algorithmLearn/算法学习第三天.md",
-    "myObsidian/工作笔记/工作上犯错误了.md",
     "新建 文本文档.txt",
     "myObsidian/工作笔记/八股文学习/数据库/MySQL",
     "myObsidian/工作笔记/八股文学习/微服务分布式",
     "myObsidian/工作笔记/八股文学习/场景问题",
-    "myObsidian/工作笔记/八股文学习/中间件",
     "myObsidian/工作笔记/Pasted image 20240823180937.png",
     "Pasted image 20240823180937.png",
     "myObsidian/algorithmLearn/链表/Pasted image 20240620104138.png",
