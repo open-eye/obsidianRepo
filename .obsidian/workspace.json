@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myObsidian/生活笔记/知行合一.md",
+                "file": "myObsidian/生活笔记/习惯.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myObsidian/生活笔记/知行合一.md",
+                "file": "myObsidian/生活笔记/习惯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myObsidian/生活笔记/知行合一.md",
+                "file": "myObsidian/生活笔记/习惯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myObsidian/生活笔记/知行合一.md"
+                "file": "myObsidian/生活笔记/习惯.md"
               }
             }
           }
@@ -175,8 +175,9 @@
   },
   "active": "d7f8da123412c71f",
   "lastOpenFiles": [
-    "myAnki/testAnki.md",
     "myObsidian/生活笔记/知行合一.md",
+    "myObsidian/生活笔记/习惯.md",
+    "myAnki/testAnki.md",
     "myObsidian/读书笔记/未命名.md",
     "Omnivore/2024-09-12/美团面试：说说OOM三大场景和解决方案？ （绝对史上最全）-阿里云开发者社区.md",
     "Omnivore/2024-09-12/事务的四个特性以及四个隔离级别-CSDN博客.md",
@@ -207,7 +208,6 @@
     "myObsidian/algorithmLearn/算法学习第三天.md",
     "myObsidian/工作笔记/工作上犯错误了.md",
     "新建 文本文档.txt",
-    "myObsidian/工作笔记/工作3年的java开发应该有什么样的职业规划.md",
     "myObsidian/工作笔记/八股文学习/数据库/MySQL",
     "myObsidian/工作笔记/八股文学习/微服务分布式",
     "myObsidian/工作笔记/八股文学习/场景问题",
