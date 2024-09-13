@@ -1,0 +1,168 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "图片遮盖": "((?:[^\\n][\\n]?)+) #flashcard ?\\n*((?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))+)",
+      "填空题": "",
+      "问答题": "",
+      "问答题（同时生成翻转的卡片<可选>）": "",
+      "问答题（同时生成翻转的卡片）": "",
+      "问答题（输入答案）": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "图片遮盖": "遮盖",
+      "填空题": "文字",
+      "问答题": "正面",
+      "问答题（同时生成翻转的卡片<可选>）": "正面",
+      "问答题（同时生成翻转的卡片）": "正面",
+      "问答题（输入答案）": "正面"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "myObsidian": "",
+      "Omnivore": "",
+      "myObsidian/读书笔记": "",
+      "myObsidian/工作笔记": "",
+      "myObsidian/生活笔记": "",
+      "myObsidian/algorithmLearn": "",
+      "myObsidian/englishLearn": "",
+      "Omnivore/2024-09-11": "",
+      "Omnivore/2024-09-12": "",
+      "myObsidian/工作笔记/八股文学习": "",
+      "myObsidian/algorithmLearn/数组": "",
+      "myObsidian/algorithmLearn/链表": "",
+      "myObsidian/工作笔记/八股文学习/Java高级": "",
+      "myObsidian/工作笔记/八股文学习/Java基础": "",
+      "myObsidian/工作笔记/八股文学习/场景问题": "",
+      "myObsidian/工作笔记/八股文学习/中间件": "",
+      "myObsidian/工作笔记/八股文学习/数据库": "",
+      "myObsidian/工作笔记/八股文学习/微服务分布式": "",
+      "myObsidian/工作笔记/八股文学习/计算机基础知识": "",
+      "myObsidian/工作笔记/八股文学习/数据库/MySQL": ""
+    },
+    "FOLDER_TAGS": {
+      "myObsidian": "",
+      "Omnivore": "",
+      "myObsidian/读书笔记": "",
+      "myObsidian/工作笔记": "",
+      "myObsidian/生活笔记": "",
+      "myObsidian/algorithmLearn": "",
+      "myObsidian/englishLearn": "",
+      "Omnivore/2024-09-11": "",
+      "Omnivore/2024-09-12": "",
+      "myObsidian/工作笔记/八股文学习": "",
+      "myObsidian/algorithmLearn/数组": "",
+      "myObsidian/algorithmLearn/链表": "",
+      "myObsidian/工作笔记/八股文学习/Java高级": "",
+      "myObsidian/工作笔记/八股文学习/Java基础": "",
+      "myObsidian/工作笔记/八股文学习/场景问题": "",
+      "myObsidian/工作笔记/八股文学习/中间件": "",
+      "myObsidian/工作笔记/八股文学习/数据库": "",
+      "myObsidian/工作笔记/八股文学习/微服务分布式": "",
+      "myObsidian/工作笔记/八股文学习/计算机基础知识": "",
+      "myObsidian/工作笔记/八股文学习/数据库/MySQL": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "myAnki/testAnki.md": "e7965080177046c69d9c1a84d80a00a9",
+    "Omnivore/2024-09-12/hashmap - 搜索.md": "c1f773e3589e7c69ec5844aedfdc8e8f",
+    "Omnivore/2024-09-11/Getting Started with Omnivore.md": "9773f02fbbc3cb6b9290dfd091298ff2",
+    "Omnivore/2024-09-11/The Secret Power of ‘Read It Later’ Apps.md": "e572c026c9956714a0338f7d524f78d6",
+    "Omnivore/2024-09-11/Organize your Omnivore library with labels.md": "8b05e83d18dfa5511e1fcbe6bf493c37",
+    "myObsidian/algorithmLearn/链表/链表理论基础.md": "57de178122243ca6ed3f6c52a8b10b8e",
+    "myObsidian/algorithmLearn/算法学习第二天.md": "d6cbc3f0f2ffaf3f6da83be4a509142f",
+    "myObsidian/algorithmLearn/算法学习第四天.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "myObsidian/algorithmLearn/算法学习第三天.md": "4e94226070338daf150edff0c13d79df",
+    "myObsidian/algorithmLearn/算法学习第一天.md": "699bc2c705e46f28e481e6a03f5d4626",
+    "myObsidian/algorithmLearn/数组/长度最小的子数组.md": "f1c69e48bc3a744ffeed4aa806982046",
+    "myObsidian/algorithmLearn/数组/移除元素.md": "0187265740060d2ec6fc541d23a5c672",
+    "myObsidian/algorithmLearn/数组/螺旋矩阵 Ⅱ.md": "945bd874d6e5185979ba991c75b86d61",
+    "myObsidian/algorithmLearn/数组/数组理论基础.md": "4988d894af19fdb4769f11b2d3db029f",
+    "myObsidian/algorithmLearn/数组/有序数组的平方.md": "e37c44e9cb4f62afb796f323f3819f70",
+    "myObsidian/algorithmLearn/数组/总结篇.md": "4a87f303a82ab8f363dab135347eaed4",
+    "myObsidian/algorithmLearn/数组/二分查找.md": "35ff6039132bfa200d97d83fa2469137",
+    "myObsidian/生活笔记/疏离型人格.md": "96f8f8ae47a218b9a6fb9b7c7a407d6c",
+    "myObsidian/生活笔记/失恋了.md": "227b8c477134f295486e17b8addaf91c",
+    "myObsidian/生活笔记/落后就要挨打.md": "1e57cc414f8be0b1f561745a32ad13c4",
+    "myObsidian/生活笔记/做菜记录.md": "1ebe2acd11010579ea1afab13b3a9ed6",
+    "myObsidian/工作笔记/管理.md": "7a38efa33360410421e7ceabd68e28f7",
+    "myObsidian/工作笔记/工作上犯错误了.md": "e3b740f52810cb0646bab7332d56a477",
+    "myObsidian/工作笔记/工作3年的java开发应该有什么样的职业规划.md": "11e1dd53f5a9355019401e50eeb09a3b",
+    "myObsidian/工作笔记/回单中心接口梳理.md": "8ad94897ab9bf1d1dccc63be0766464e",
+    "myObsidian/工作笔记/app易购总库存需求设计.md": "e8368657e3f9975995829900ffdd67b4",
+    "myObsidian/工作笔记/八股文学习/数据库/MySQL/数据库优化.md": "e5afc3d72f4f12f1083506c7f10fa101",
+    "myObsidian/工作笔记/八股文学习/数据库/MySQL/MySQL索引.md": "e71ae6212aad70718743965fffff2004",
+    "myObsidian/工作笔记/八股文学习/场景问题/慢查询问题.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "myObsidian/工作笔记/八股文学习/场景问题/缓存一致性解决.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "myObsidian/工作笔记/八股文学习/场景问题/了解输入url到网站显示过程中发生了什么.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "myObsidian/工作笔记/八股文学习/Java基础/final.md": "ed37488c3f6e7c7a367e6ea432820a18",
+    "myObsidian/工作笔记/八股文学习/Java基础/基本数据类型.md": "fa8a5bdbdb392d80286a0ebf77545684",
+    "myObsidian/工作笔记/八股文学习/Java基础/Synchronized.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "myObsidian/工作笔记/八股文学习/Java高级/JVM.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "myObsidian/工作笔记/stream常用语法.md": "0d8e1f6ecc37911eb20e0e8bc25c00ec",
+    "myObsidian/工作笔记/app易购总库存查询方案设计.md": "947d7f4356c988f37dc55c4e357befb6",
+    "myObsidian/读书笔记/移情.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "myObsidian/读书笔记/投射.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "myObsidian/读书笔记/我真的很棒.md": "b8c7c5bebbae4fb5af6f5c25a6b7ee6b",
+    "myObsidian/读书笔记/广州与深圳.md": "4b73a78dc0fb35cd733ba188cb38a142",
+    "myObsidian/读书笔记/如何在12周内实现一年目标.md": "49087d0340396b9251e829fa7e9be3ce",
+    "myObsidian/读书笔记/如何阅读一本书.md": "44d1418fb7680ef4b2752fe27abae2c1",
+    "myObsidian/读书笔记/内射.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "myObsidian/读书笔记/共生.md": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "fields_dict": {
+    "图片遮盖": [
+      "遮盖",
+      "图片",
+      "标题",
+      "背面额外",
+      "注释"
+    ],
+    "填空题": [
+      "文字",
+      "背面额外"
+    ],
+    "问答题": [
+      "正面",
+      "背面"
+    ],
+    "问答题（同时生成翻转的卡片<可选>）": [
+      "正面",
+      "背面",
+      "增加翻转的卡片"
+    ],
+    "问答题（同时生成翻转的卡片）": [
+      "正面",
+      "背面"
+    ],
+    "问答题（输入答案）": [
+      "正面",
+      "背面"
+    ]
+  }
+}

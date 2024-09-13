@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myObsidian/生活笔记/落后就要挨打.md",
+                "file": "Omnivore/2024-09-11/Getting Started with Omnivore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7f8da123412c71f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myAnki/testAnki.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myObsidian/生活笔记/落后就要挨打.md",
+                "file": "myAnki/testAnki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myObsidian/生活笔记/落后就要挨打.md",
+                "file": "myAnki/testAnki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myObsidian/生活笔记/落后就要挨打.md"
+                "file": "myAnki/testAnki.md"
               }
             }
           }
@@ -157,14 +169,27 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-omnivore:Omnivore": false
+      "obsidian-omnivore:Omnivore": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "e044b4c36d0cf39d",
+  "active": "d7f8da123412c71f",
   "lastOpenFiles": [
+    "Omnivore/2024-09-12/美团面试：说说OOM三大场景和解决方案？ （绝对史上最全）-阿里云开发者社区.md",
+    "Omnivore/2024-09-12/事务的四个特性以及四个隔离级别-CSDN博客.md",
+    "Omnivore/2024-09-12/Langchain-ChatGLM：基于本地知识库问答_langchain chatglm-CSDN博客.md",
+    "Omnivore/2024-09-11/Getting Started with Omnivore.md",
+    "myAnki/testAnki.md",
+    "myAnki",
+    "Omnivore/2024-09-12/hashmap - 搜索.md",
+    "Omnivore/2024-09-12",
+    "myObsidian/生活笔记/落后就要挨打.md",
+    "Omnivore/2024-09-11/The Secret Power of ‘Read It Later’ Apps.md",
+    "Omnivore/2024-09-11/Organize your Omnivore library with labels.md",
+    "Omnivore/2024-09-11",
+    "Omnivore",
     "myObsidian",
     "myObsidian/工作笔记/管理.md",
-    "myObsidian/生活笔记/落后就要挨打.md",
     "myObsidian/生活笔记/失恋了.md",
     "Pasted image 20240826162135.png",
     "项目任务书模板.md",
@@ -183,22 +208,10 @@
     "myObsidian/工作笔记/工作3年的java开发应该有什么样的职业规划.md",
     "myObsidian/读书笔记/我真的很棒.md",
     "myObsidian/读书笔记/共生.md",
-    "myObsidian/读书笔记/广州与深圳.md",
-    "myObsidian/读书笔记/如何阅读一本书.md",
-    "myObsidian/工作笔记/八股文学习/Java基础/基本数据类型.md",
-    "myObsidian/工作笔记/八股文学习/Java基础/final.md",
-    "myObsidian/工作笔记/八股文学习/场景问题/慢查询问题.md",
     "myObsidian/工作笔记/八股文学习/数据库/MySQL",
-    "myObsidian/工作笔记/八股文学习/Java基础/Synchronized.md",
-    "myObsidian/工作笔记/八股文学习/场景问题/缓存一致性解决.md",
     "myObsidian/工作笔记/八股文学习/微服务分布式",
     "myObsidian/工作笔记/八股文学习/场景问题",
     "myObsidian/工作笔记/八股文学习/中间件",
-    "myObsidian/工作笔记/八股文学习/数据库",
-    "myObsidian/工作笔记/八股文学习/Java高级",
-    "myObsidian/工作笔记/八股文学习/Java基础",
-    "myObsidian/工作笔记/八股文学习/计算机基础知识",
-    "myObsidian/工作笔记/八股文学习",
     "myObsidian/工作笔记/Pasted image 20240823180937.png",
     "Pasted image 20240823180937.png",
     "myObsidian/algorithmLearn/链表/Pasted image 20240620104138.png",
