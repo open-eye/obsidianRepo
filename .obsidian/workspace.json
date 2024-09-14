@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myObsidian/学习笔记/经济学原理 微观经济学.md",
+                "file": "myObsidian/学习笔记/机器学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myObsidian/学习笔记/经济学原理 微观经济学.md",
+                "file": "myObsidian/学习笔记/机器学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myObsidian/学习笔记/经济学原理 微观经济学.md",
+                "file": "myObsidian/学习笔记/机器学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myObsidian/学习笔记/经济学原理 微观经济学.md"
+                "file": "myObsidian/学习笔记/机器学习.md"
               }
             }
           }
@@ -175,10 +175,11 @@
   },
   "active": "d7f8da123412c71f",
   "lastOpenFiles": [
+    "myObsidian/学习笔记/经济学原理 微观经济学.md",
+    "myObsidian/学习笔记/机器学习.md",
     "Omnivore/2024-09-14/《天道》：从“芮小丹问丁元英 你对我开始厌烦了吗？丁元英指出 命题错误”探究爱情、职场等生活里的“命题对错”.md",
     "Omnivore/2024-09-14",
     "myObsidian/生活笔记/疏离型人格.md",
-    "myObsidian/学习笔记/经济学原理 微观经济学.md",
     "myObsidian/学习笔记",
     "myObsidian/生活笔记/习惯.md",
     "myObsidian/生活笔记/知行合一.md",
@@ -208,7 +209,6 @@
     "myObsidian/工作笔记/八股文学习/数据库/MySQL/数据库优化.md",
     "myObsidian/工作笔记/八股文学习/数据库/MySQL/MySQL索引.md",
     "myObsidian/工作笔记/八股文学习/Java高级/JVM.md",
-    "myObsidian/algorithmLearn/算法学习第四天.md",
     "新建 文本文档.txt",
     "myObsidian/工作笔记/八股文学习/数据库/MySQL",
     "myObsidian/工作笔记/八股文学习/微服务分布式",
