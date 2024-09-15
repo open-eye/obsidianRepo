@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/数据库/MySQL/数据库优化.md",
+                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/数据库/MySQL/数据库优化.md",
+                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/数据库/MySQL/数据库优化.md",
+                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/数据库/MySQL/数据库优化.md"
+                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM.md"
               }
             }
           }
@@ -163,7 +163,13 @@
   },
   "active": "d7f8da123412c71f",
   "lastOpenFiles": [
+    "myObsidian/工作笔记/八股文学习/场景问题/慢查询问题.md",
+    "myObsidian/工作笔记/八股文学习/场景问题/了解输入url到网站显示过程中发生了什么.md",
+    "myObsidian/工作笔记/八股文学习/数据库/MySQL/数据库优化.md",
+    "myObsidian/工作笔记/八股文学习/数据库/MySQL/MySQL事务.md",
     "myObsidian/工作笔记/八股文学习/数据库/MySQL/MySQL索引.md",
+    "Omnivore/2024-09-15/一文搞懂MySQL索引（清晰明了）-CSDN博客.md",
+    "Omnivore/2024-09-15",
     "myObsidian/生活笔记/人人都应该不断地面试.md",
     "myObsidian/生活笔记/情绪价值.md",
     "myObsidian/生活笔记/做菜记录.md",
@@ -191,15 +197,9 @@
     "Omnivore/2024-09-11",
     "Omnivore",
     "myObsidian",
-    "myObsidian/工作笔记/管理.md",
-    "myObsidian/生活笔记/失恋了.md",
     "Pasted image 20240826162135.png",
-    "项目任务书模板.md",
-    "Welcome.md",
-    "myObsidian/读书笔记/如何在12周内实现一年目标.md",
     "新建 文本文档.txt",
     "myObsidian/工作笔记/八股文学习/数据库/MySQL",
-    "myObsidian/工作笔记/八股文学习/微服务分布式",
     "myObsidian/工作笔记/Pasted image 20240823180937.png",
     "Pasted image 20240823180937.png",
     "myObsidian/algorithmLearn/链表/Pasted image 20240620104138.png",
