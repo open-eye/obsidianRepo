@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "356ee190cd1176e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Omnivore/2024-09-11/Getting Started with Omnivore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d7f8da123412c71f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/数据库/MySQL/MySQL索引.md",
+                "file": "myObsidian/工作笔记/八股文学习/数据库/MySQL/数据库优化.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/数据库/MySQL/MySQL索引.md",
+                "file": "myObsidian/工作笔记/八股文学习/数据库/MySQL/数据库优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/数据库/MySQL/MySQL索引.md",
+                "file": "myObsidian/工作笔记/八股文学习/数据库/MySQL/数据库优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/数据库/MySQL/MySQL索引.md"
+                "file": "myObsidian/工作笔记/八股文学习/数据库/MySQL/数据库优化.md"
               }
             }
           }
@@ -175,6 +163,11 @@
   },
   "active": "d7f8da123412c71f",
   "lastOpenFiles": [
+    "myObsidian/工作笔记/八股文学习/数据库/MySQL/MySQL索引.md",
+    "myObsidian/生活笔记/人人都应该不断地面试.md",
+    "myObsidian/生活笔记/情绪价值.md",
+    "myObsidian/生活笔记/做菜记录.md",
+    "Omnivore/2024-09-11/Getting Started with Omnivore.md",
     "myObsidian/读书笔记/如何阅读一本书.md",
     "myObsidian/学习笔记/机器学习.md",
     "myObsidian/学习笔记/经济学原理 微观经济学.md",
@@ -189,7 +182,6 @@
     "Omnivore/2024-09-12/美团面试：说说OOM三大场景和解决方案？ （绝对史上最全）-阿里云开发者社区.md",
     "Omnivore/2024-09-12/事务的四个特性以及四个隔离级别-CSDN博客.md",
     "Omnivore/2024-09-12/Langchain-ChatGLM：基于本地知识库问答_langchain chatglm-CSDN博客.md",
-    "Omnivore/2024-09-11/Getting Started with Omnivore.md",
     "myAnki",
     "Omnivore/2024-09-12/hashmap - 搜索.md",
     "Omnivore/2024-09-12",
@@ -204,11 +196,7 @@
     "Pasted image 20240826162135.png",
     "项目任务书模板.md",
     "Welcome.md",
-    "myObsidian/生活笔记/做菜记录.md",
     "myObsidian/读书笔记/如何在12周内实现一年目标.md",
-    "myObsidian/读书笔记/移情.md",
-    "myObsidian/工作笔记/八股文学习/数据库/MySQL/数据库优化.md",
-    "myObsidian/工作笔记/八股文学习/数据库/MySQL/MySQL索引.md",
     "新建 文本文档.txt",
     "myObsidian/工作笔记/八股文学习/数据库/MySQL",
     "myObsidian/工作笔记/八股文学习/微服务分布式",
