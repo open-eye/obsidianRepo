@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM.md",
+                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM对象创建过程.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM.md",
+                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM对象创建过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM.md",
+                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM对象创建过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM.md"
+                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM对象创建过程.md"
               }
             }
           }
@@ -163,6 +163,9 @@
   },
   "active": "d7f8da123412c71f",
   "lastOpenFiles": [
+    "myObsidian/工作笔记/八股文学习/Java高级/JVM GC.md",
+    "myObsidian/工作笔记/八股文学习/Java高级/JVM对象创建过程.md",
+    "Omnivore/2024-09-15/别再背新生代老年代了，这篇文章终于把JVM的GC讲清楚了-腾讯云开发者社区-腾讯云.md",
     "myObsidian/工作笔记/八股文学习/场景问题/慢查询问题.md",
     "myObsidian/工作笔记/八股文学习/场景问题/了解输入url到网站显示过程中发生了什么.md",
     "myObsidian/工作笔记/八股文学习/数据库/MySQL/数据库优化.md",
@@ -191,9 +194,6 @@
     "myAnki",
     "Omnivore/2024-09-12/hashmap - 搜索.md",
     "Omnivore/2024-09-12",
-    "myObsidian/生活笔记/落后就要挨打.md",
-    "Omnivore/2024-09-11/The Secret Power of ‘Read It Later’ Apps.md",
-    "Omnivore/2024-09-11/Organize your Omnivore library with labels.md",
     "Omnivore/2024-09-11",
     "Omnivore",
     "myObsidian",
