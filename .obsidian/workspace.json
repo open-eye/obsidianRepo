@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM对象创建过程.md",
+                "file": "myObsidian/工作笔记/工作反思/面试反思.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM对象创建过程.md",
+                "file": "myObsidian/工作笔记/工作反思/面试反思.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM对象创建过程.md",
+                "file": "myObsidian/工作笔记/工作反思/面试反思.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myObsidian/工作笔记/八股文学习/Java高级/JVM对象创建过程.md"
+                "file": "myObsidian/工作笔记/工作反思/面试反思.md"
               }
             }
           }
@@ -163,8 +163,19 @@
   },
   "active": "d7f8da123412c71f",
   "lastOpenFiles": [
-    "myObsidian/生活笔记/做菜记录.md",
+    "未命名.md",
+    "myObsidian/工作笔记/工作反思/面试反思.md",
+    "myObsidian/工作笔记/工作反思/工作3年的java开发应该有什么样的职业规划.md",
+    "myObsidian/工作笔记/工作反思/工作上犯错误了.md",
+    "myObsidian/工作笔记/工作反思/app易购总库存需求设计.md",
+    "myObsidian/工作笔记/工作反思",
+    "myObsidian/工作笔记/工作反思/管理.md",
+    "myObsidian/工作笔记/回单中心接口梳理.md",
+    "myObsidian/读书笔记/如何在12周内实现一年目标.md",
+    "Omnivore/2024-09-18/美团二面拷打：MySQL中 SELECT 语句执行流程？.md",
+    "Omnivore/2024-09-18",
     "myObsidian/工作笔记/八股文学习/Java高级/JVM对象创建过程.md",
+    "myObsidian/生活笔记/做菜记录.md",
     "myObsidian/工作笔记/八股文学习/Java高级/JVM GC.md",
     "Omnivore/2024-09-15/别再背新生代老年代了，这篇文章终于把JVM的GC讲清楚了-腾讯云开发者社区-腾讯云.md",
     "myObsidian/工作笔记/八股文学习/场景问题/慢查询问题.md",
@@ -182,25 +193,14 @@
     "myObsidian/学习笔记/经济学原理 微观经济学.md",
     "Omnivore/2024-09-14/《天道》：从“芮小丹问丁元英 你对我开始厌烦了吗？丁元英指出 命题错误”探究爱情、职场等生活里的“命题对错”.md",
     "Omnivore/2024-09-14",
-    "myObsidian/生活笔记/疏离型人格.md",
     "myObsidian/学习笔记",
-    "myObsidian/生活笔记/习惯.md",
-    "myObsidian/生活笔记/知行合一.md",
-    "myAnki/testAnki.md",
-    "myObsidian/读书笔记/未命名.md",
-    "Omnivore/2024-09-12/美团面试：说说OOM三大场景和解决方案？ （绝对史上最全）-阿里云开发者社区.md",
-    "Omnivore/2024-09-12/事务的四个特性以及四个隔离级别-CSDN博客.md",
-    "Omnivore/2024-09-12/Langchain-ChatGLM：基于本地知识库问答_langchain chatglm-CSDN博客.md",
     "myAnki",
-    "Omnivore/2024-09-12/hashmap - 搜索.md",
     "Omnivore/2024-09-12",
     "Omnivore/2024-09-11",
     "Omnivore",
     "myObsidian",
     "Pasted image 20240826162135.png",
-    "新建 文本文档.txt",
-    "myObsidian/工作笔记/八股文学习/数据库/MySQL",
-    "myObsidian/工作笔记/Pasted image 20240823180937.png",
+    "myObsidian/工作笔记/工作反思/Pasted image 20240823180937.png",
     "Pasted image 20240823180937.png",
     "myObsidian/algorithmLearn/链表/Pasted image 20240620104138.png",
     "myObsidian/algorithmLearn/链表/Pasted image 20240620105218.png",
