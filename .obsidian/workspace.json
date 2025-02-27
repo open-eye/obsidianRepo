@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myObsidian/工作笔记/技术问题/WSL/WSL2网络无法使用问题.md",
+                "file": "myObsidian/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myObsidian/工作笔记/技术问题/WSL/WSL2网络无法使用问题.md",
+                "file": "myObsidian/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myObsidian/工作笔记/技术问题/WSL/WSL2网络无法使用问题.md",
+                "file": "myObsidian/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myObsidian/工作笔记/技术问题/WSL/WSL2网络无法使用问题.md"
+                "file": "myObsidian/未命名.md"
               }
             }
           }
@@ -163,12 +163,13 @@
   },
   "active": "d7f8da123412c71f",
   "lastOpenFiles": [
+    "myObsidian/工作笔记/技术问题/WSL/WSL2网络无法使用问题.md",
+    "myObsidian/未命名.md",
     "Omnivore/2024-11-19/MySQL不香吗，为啥还要Elasticsearch？ - MRO物料采购服务 - 博客园.md",
     "Omnivore/2024-11-19",
     "Omnivore/2024-10-18/【码农教程】手把手教你Mockito的使用_mockito教程-CSDN博客.md",
     "Omnivore/2024-10-18",
     "myObsidian/工作笔记/技术问题/未命名.md",
-    "myObsidian/工作笔记/技术问题/WSL/WSL2网络无法使用问题.md",
     "myObsidian/工作笔记/技术问题/WSL",
     "myObsidian/学习笔记/机器学习 7.2.5 finish.md",
     "myObsidian/工作笔记/技术问题",
@@ -196,7 +197,6 @@
     "Omnivore/2024-09-15/一文搞懂MySQL索引（清晰明了）-CSDN博客.md",
     "Omnivore/2024-09-15",
     "myObsidian/生活笔记/人人都应该不断地面试.md",
-    "myObsidian/生活笔记/情绪价值.md",
     "Omnivore/2024-09-14",
     "myObsidian/学习笔记",
     "Pasted image 20240826162135.png",
