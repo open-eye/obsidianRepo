@@ -17,7 +17,7 @@
   "version": "1.10.4",
   "isSingleFile": false,
   "frequency": 60,
-  "intervalId": 7,
+  "intervalId": 18,
   "frontMatterVariables": [],
   "frontMatterTemplate": "",
   "syncOnStart": true,
