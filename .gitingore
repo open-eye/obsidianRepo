@@ -1,1 +1,12 @@
 .obsidian/workspace.json
+
+# === 必忽略项：设备本地配置 ===
+.obsidian/workspace*   # 工作区布局（每台设备独立）
+.obsidian/workspaces/  # 多窗口工作区缓存
+.obsidian/icon-cache/  # 图标缓存
+.trash/                # 回收站文件
+
+# === 必忽略项：插件缓存/临时文件 ===
+.obsidian/plugins/**/data.json # 插件本地数据（如待办事项状态）
+*.tmp                           # 临时文件
+*.log                           # 日志文件
