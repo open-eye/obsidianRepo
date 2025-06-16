@@ -18,3 +18,23 @@ kubectl get pods -o wide | grep <节点名>
 #所有节点执行
 systemctl stop kubelet && systemctl stop containerd
 ```
+
+3. 从节点not ready
+```
+#重置 故障节点执行
+sudo kubeadm reset --force
+#如果节点已经存在 则master执行
+kubectl delete node k8s-node
+#重新加入
+join
+```
+
+
+4. /proc/sys/net/ipv4/ip_forward contents are not set to 1
+```
+# 临时启用（重启失效） 
+sudo sysctl net.ipv4.ip_forward=1 
+# 永久生效（需重启节点） 
+echo "net.ipv4.ip_forward=1" | sudo tee /etc/sysctl.d/k8s.conf 
+sudo sysctl -p /etc/sysctl.d/k8s.conf
+```
