@@ -49,3 +49,8 @@ sudo sysctl net.ipv4.ip_forward=1
 echo "net.ipv4.ip_forward=1" | sudo tee /etc/sysctl.d/k8s.conf 
 sudo sysctl -p /etc/sysctl.d/k8s.conf
 ```
+
+查看节点状态
+```
+kubectl describe node k8s-node1
+```
