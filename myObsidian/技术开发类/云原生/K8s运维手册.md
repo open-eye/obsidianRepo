@@ -50,7 +50,14 @@ echo "net.ipv4.ip_forward=1" | sudo tee /etc/sysctl.d/k8s.conf
 sudo sysctl -p /etc/sysctl.d/k8s.conf
 ```
 
-查看节点状态
+查看节点状态 查看pod 查看service
 ```
 kubectl describe node k8s-node1
+```
+
+排查docker服务无法访问
+```
+docker ps | grep rancher/rancher # 确认容器是否运行 
+ss -tuln | grep 2443 # 检查 2443 端口监听状态 
+docker logs <rancher_container_id> | grep "Listening" # 查看启动日志
 ```
