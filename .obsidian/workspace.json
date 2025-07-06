@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myObsidian/技术开发类/K8s/K8s学习路线.md",
+                "file": "myObsidian/技术开发类/云原生/虚拟机/Centos 7系统安装.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K8s学习路线"
+              "title": "Centos 7系统安装"
             }
           }
         ],
@@ -201,11 +201,14 @@
   },
   "active": "45f93251a8a7bd9f",
   "lastOpenFiles": [
-    "myObsidian/技术开发类/K8s/K8s运维手册.md",
-    "myObsidian/技术开发类/K8s/K8s学习路线.md",
-    "myObsidian/技术开发类/K8s/安装Rancher.md",
+    "myObsidian/技术开发类/云原生/K8s/K8s学习路线.md",
+    "myObsidian/技术开发类/云原生/虚拟机/Centos 7系统安装.md",
+    "myObsidian/技术开发类/云原生/虚拟机",
+    "myObsidian/技术开发类/云原生",
+    "myObsidian/技术开发类/云原生/K8s/安装Rancher.md",
+    "myObsidian/技术开发类/云原生/K8s/K8s运维手册.md",
     "myObsidian/技术开发类/人工智能/机器学习 7.2.5 finish.md",
-    "myObsidian/技术开发类/K8s",
+    "myObsidian/技术开发类/云原生/K8s",
     "myObsidian/生活学习类/经济学札记",
     "myObsidian/技术开发类/人工智能",
     "myObsidian/技术开发类/Java专项/Java高级/JVM GC.md",
@@ -224,8 +227,6 @@
     "myObsidian/工作笔记/技术问题/未命名.md",
     "myObsidian/未命名.md",
     "myObsidian/工作提升类",
-    "myObsidian/生活学习类",
-    "myObsidian/技术开发类",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "myObsidian/工作提升类/深度问题档案/WSL/WSL2网络无法使用问题.md",
@@ -238,7 +239,6 @@
     "myObsidian/工作提升类/职业发展日志/工作反思/app易购总库存需求设计.md",
     "myObsidian/工作提升类/职业发展日志/工作反思/管理.md",
     "myObsidian/工作笔记/回单中心接口梳理.md",
-    "myObsidian/生活学习类/读书笔记/如何在12周内实现一年目标.md",
     "Pasted image 20240826162135.png",
     "myObsidian/工作提升类/职业发展日志/工作反思/Pasted image 20240823180937.png",
     "Pasted image 20240823180937.png",
