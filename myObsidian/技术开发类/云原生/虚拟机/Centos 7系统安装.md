@@ -47,18 +47,25 @@ systemctl enable --now docker
 
 - **配置docker镜像地址：**
 ```
-# /etc/docker/daemon.json
+sudo mkdir -p /etc/docker && sudo tee /etc/docker/daemon.json <<'EOF'
 {
-    "registry-mirrors": [
-	    "https://9uder41y.mirror.aliyuncs.com",
-        "https://docker.m.daocloud.io",
-        "https://docker-0.unsee.tech",
-        "https://docker.hlmirror.com",
-        "https://docker.1ms.run",
-        "https://func.ink",
-        "https://lispy.org",
-        "https://docker.xiaogenban1993.com"
+  "registry-mirrors": [
+    "https://9uder41y.mirror.aliyuncs.com",
+    "https://docker.m.daocloud.io",
+    "https://docker-0.unsee.tech",
+    "https://docker.hlmirror.com",
+    "https://docker.1ms.run",
+    "https://func.ink",
+    "https://lispy.org",
+    "https://docker.xiaogenban1993.com",
+    "https://mirror.ccs.tencentyun.com",
+    "https://hub-mirror.c.163.com"
   ]
 }
+EOF
+
+sudo systemctl restart docker
+#验证
+docker info | grep -A 10 "Registry Mirrors"
 ```
 
