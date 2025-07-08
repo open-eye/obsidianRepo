@@ -26,6 +26,16 @@ EOF
 sysctl -p /etc/sysctl.d/k8s.conf
 ```
 
+- **切换国内源**
+```
+sudo cp /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.backup
+sudo wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo
+#清理缓存并重建索引
+sudo yum clean all && sudo yum makecache
+#验证
+yum repolist enabled | grep aliyun
+```
+
 3. ​**​容器运行时配置​**​：
 - **​安装Docker​**​（推荐版本20.10+）：
 ```
