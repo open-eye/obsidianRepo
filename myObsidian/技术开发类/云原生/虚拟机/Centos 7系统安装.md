@@ -69,3 +69,31 @@ sudo systemctl restart docker
 docker info | grep -A 10 "Registry Mirrors"
 ```
 
+- 添加 hong 用户到 sudoers 文件
+```
+#切换到root
+su -
+#安全编辑sudoers文件
+visudo
+#添加权限规则 在文件中找到 `root ALL=(ALL) ALL`，下方添加：
+hong ALL=(ALL:ALL) ALL
+```
+
+- 允许 hong 使用 Docker
+```
+sudo usermod -aG docker hong
+#临时生效
+newgrp docker
+#或注销并重新登录hong则永久生效
+
+#验证
+su - hong
+docker ps
+```
+
+- 设置 Docker 开机自启动
+```
+sudo systemctl enable docker.service
+#验证
+sudo systemctl is-enabled docker
+```
